@@ -784,7 +784,7 @@ local FlightModeName = {}
 	FlightModeName[14]="Flip"
 	FlightModeName[15]="Auto Tune"
 	FlightModeName[16]="Pos Hold"
-	FlightModeName[17]="Brake Mode"
+	FlightModeName[17]="Brake"
 	
 	-- PX4 Flight Modes
 	FlightModeName[18]="Manual"
